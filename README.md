@@ -8,5 +8,5 @@ Some useful libraries:
 Official Arduino_TensorFlow Library:
 https://github.com/tensorflow/tflite-micro-arduino-examples#how-to-install
 
-Some other options:
+EloquentArduino:
 https://eloquentarduino.com/libraries/micromlgen/
